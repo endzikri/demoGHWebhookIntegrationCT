@@ -4,8 +4,7 @@ trigger:
 pr:
  autoCancel: true
  
-pool:
-  vmImage: ubuntu-latest
+pool: mkonjikovac
  
 stages:
 - stage: stage1
