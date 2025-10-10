@@ -1,0 +1,1 @@
+secanje je smesna lupa
